@@ -1,0 +1,14 @@
+{
+  "local": {
+    "BASE_URL": "http://23b1fb15.ngrok.io/"
+  },
+  "development": {
+    "BASE_URL": "http://3.13.199.159"
+  },
+  "staging": {
+    "BASE_URL": "http://18.191.105.73"
+  },
+  "production": {
+    "BASE_URL": "https://www.bwinner.bet"
+  }
+}
